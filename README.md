@@ -2,9 +2,6 @@
 <img src="https://github.com/SofiVBastos/Images/blob/main/download20230300010356.png" width="150" height="150" align="center"/>
 <br>
 Olá, Eu sou a Sofia:thought_balloon:
-<br><br>
-<a href = "sofiavaladaresbastos55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/sofia-valadares-bastos-1a8717213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </h1>
 
 ### :woman_technologist: Sobre mim :
