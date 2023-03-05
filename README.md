@@ -9,7 +9,7 @@ Olá, Eu sou a Sofia:thought_balloon:
 :school: Atualmente cursando o ensino superior em ADS na SPTECH 
 </h3>
 <br>
-- 🔭 Atualmente estagiando na área de segurança segurança
+- 🔭 Atualmente estagiando na área de segurança
 <br>
 - 🌱 Estudando JAVA
 <br>
