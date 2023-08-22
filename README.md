@@ -5,10 +5,9 @@ Olá, Eu sou a Sofia:thought_balloon:
 </h1>
 
 ### :woman_technologist: Sobre mim :
-<h5>
+<h4>
 :school: Atualmente cursando o ensino superior em ADS na SPTECH 
-</h5>
-<br>
+</h4>
 - 🔭 Atualmente estagiando na área de segurança
 <br>
 - 🌱 Estudando JAVA
