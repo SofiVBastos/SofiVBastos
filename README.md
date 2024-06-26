@@ -29,8 +29,7 @@ Olá, Eu sou a Sofia:thought_balloon:
 
 ### :fire: Minha atividade :
 <div align="center">
-<a href="https://github.com/SofiVBastos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiVBastos&layout=compact&langs_count=7&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SofiVBastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SofiVBastos&show_icons=true&bg_color=1B1B1B&title_color=FFF9D8&text_color=FFF9D8&icon_color=5634DD&border_color=5634DD&border_radius=8" />
 
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiVBastos&layout=compact&bg_color=1B1B1B&title_color=FFF9D8&text_color=FFF9D8&icon_color=5634DD&border_color=5634DD&border_radius=8" />
 </div>
