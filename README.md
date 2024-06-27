@@ -77,7 +77,7 @@
   <div  >
   <img width="400"  src="https://github-readme-stats.vercel.app/api?username=SofiVBastos&show_icons=true&bg_color=1B1B1B&title_color=D3D3D3&text_color=D3D3D3&icon_color=5634DD&border_color=5634DD&border_radius=8&locale=pt-br" />
 
- <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=SofiVBastos&border_radius=8&locale=pt_BR&background=1B1B1B&border=5634DD&stroke=5634DD&ring=5634DD&fire=5634DD&currStreakNum=FFF9D8&sideNums=sideNums&currStreakLabel=5634DD&sideLabels=D3D3D3&sideNums=5634DD&dates=D3D3D3&excludeDaysLabel=D3D3D3" />
+ <img width="420"  src="https://github-readme-streak-stats.herokuapp.com?user=SofiVBastos&border_radius=8&locale=pt_BR&background=1B1B1B&border=5634DD&stroke=5634DD&ring=5634DD&fire=5634DD&currStreakNum=FFF9D8&sideNums=sideNums&currStreakLabel=5634DD&sideLabels=D3D3D3&sideNums=5634DD&dates=D3D3D3&excludeDaysLabel=D3D3D3" />
 </div>
 
 
