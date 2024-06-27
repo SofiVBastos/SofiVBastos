@@ -27,7 +27,7 @@
 - :headphones: Adoro codar e ouvir música ao mesmo tempo.
   
 
-### Minhas Skills
+### :pencil: Minhas Skills
 <div align="left">
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
